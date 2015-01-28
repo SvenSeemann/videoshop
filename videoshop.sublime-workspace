@@ -1,0 +1,1859 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"loc",
+				"local"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"lett",
+				"letter-spacing"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"n",
+				"normal"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"tag",
+				"tag_cloud"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"cent",
+				"center"
+			],
+			[
+				"head",
+				"header"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"stick",
+				"stickman_gray"
+			],
+			[
+				"wid",
+				"width	Attr"
+			],
+			[
+				"vertic",
+				"vertical-align"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bold",
+				"bolder"
+			],
+			[
+				"mi",
+				"middle"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"margint",
+				"margin-bottom"
+			],
+			[
+				"con",
+				"contain"
+			],
+			[
+				"contain",
+				"contain  (value)"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"background",
+				"background-repeat"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"ima",
+				"images"
+			],
+			[
+				"ur",
+				"url()"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"rel",
+				"relative"
+			],
+			[
+				"bloc",
+				"block"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"border",
+				"border-right"
+			],
+			[
+				"background-c",
+				"background-color:   (property)"
+			],
+			[
+				"camp",
+				"camps_name"
+			],
+			[
+				"main",
+				"mainpath_path_count  (variable)"
+			],
+			[
+				"id_",
+				"id_rueck_count  (variable)"
+			],
+			[
+				"knoten",
+				"KnotenRueck_von_count  (variable)"
+			],
+			[
+				"id",
+				"id_rueck_count  (variable)"
+			],
+			[
+				"Knoten",
+				"KnotenRueck_von  (variable)"
+			],
+			[
+				"segm",
+				"segmentdata_id_count"
+			],
+			[
+				"seg",
+				"segmentdata_id_count"
+			],
+			[
+				"segmentdata_id_",
+				"segmentdata_id_count  (variable)"
+			],
+			[
+				"res",
+				"res_count"
+			],
+			[
+				"count",
+				"count_schedule_mainpath"
+			],
+			[
+				"al",
+				"alert	js_alert"
+			],
+			[
+				"conta",
+				"contact"
+			],
+			[
+				"ph",
+				"php"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"im",
+				"!important  (value)"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"margin-bo",
+				"margin-bottom:   (property)"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"url",
+				"url_extension"
+			],
+			[
+				"webse",
+				"webservice_base_url"
+			],
+			[
+				"genre_",
+				"genre_index_path"
+			],
+			[
+				"link",
+				"link_to"
+			],
+			[
+				"artis",
+				"artists"
+			],
+			[
+				"art",
+				"artists"
+			],
+			[
+				"faq",
+				"faq_tab"
+			],
+			[
+				"setT",
+				"setTabUnactive"
+			],
+			[
+				"set",
+				"setTabActive"
+			],
+			[
+				"genre",
+				"genre_tab"
+			],
+			[
+				"artist",
+				"artist_tab"
+			],
+			[
+				"re",
+				"ready  (function)"
+			],
+			[
+				"add",
+				"addClass  (function)"
+			],
+			[
+				"ar",
+				"artist"
+			],
+			[
+				"class",
+				"class=  (attribute)"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"sub",
+				"submit_tag"
+			],
+			[
+				"tex",
+				"text_field_tag"
+			],
+			[
+				"for",
+				"for	Attr"
+			],
+			[
+				"gen",
+				"genres"
+			],
+			[
+				"cre",
+				"create"
+			],
+			[
+				"arti",
+				"artist"
+			],
+			[
+				"respond",
+				"respond_with"
+			],
+			[
+				"artt",
+				"artists"
+			],
+			[
+				"popul",
+				"populator"
+			],
+			[
+				"data",
+				"database"
+			],
+			[
+				"control",
+				"controllers"
+			],
+			[
+				"Artist",
+				"ArtistService"
+			],
+			[
+				"sin",
+				"sinatra"
+			],
+			[
+				"p",
+				"pl	println"
+			],
+			[
+				"Am",
+				"AmountOld"
+			],
+			[
+				"pati",
+				"patients"
+			],
+			[
+				"write",
+				"write_evaluation_data_to_f"
+			],
+			[
+				"csv",
+				"csv_link"
+			],
+			[
+				"if",
+				"if	if"
+			],
+			[
+				"eva",
+				"evaluation-results"
+			],
+			[
+				"thread",
+				"thread_count"
+			],
+			[
+				"threa",
+				"thread_count"
+			],
+			[
+				"divid",
+				"divided_data"
+			],
+			[
+				"lookup",
+				"lookup_data"
+			],
+			[
+				"colle",
+				"collection"
+			],
+			[
+				"para",
+				"para	rails_params"
+			],
+			[
+				"dec",
+				"decrypt_firstname"
+			],
+			[
+				"get",
+				"get_patients"
+			],
+			[
+				"merge",
+				"merge_and_unique_queue"
+			],
+			[
+				"look",
+				"lookup_data"
+			],
+			[
+				"de",
+				"debug"
+			],
+			[
+				"unless",
+				"unless"
+			],
+			[
+				"patient_da",
+				"patient_datas"
+			],
+			[
+				"Patient",
+				"PatientData"
+			],
+			[
+				"per",
+				"permission_group"
+			],
+			[
+				"tiny",
+				"tinymce_selector"
+			],
+			[
+				"remoe",
+				"remove"
+			],
+			[
+				"edit",
+				"editors"
+			],
+			[
+				"Edit",
+				"EditorManager"
+			],
+			[
+				"tin",
+				"tinymce"
+			],
+			[
+				"att",
+				"attr('id"
+			],
+			[
+				"stata",
+				"statusbar"
+			],
+			[
+				"defa",
+				"default"
+			],
+			[
+				"si",
+				"size"
+			],
+			[
+				"unit",
+				"unit_id"
+			],
+			[
+				"unitt",
+				"unit_type"
+			],
+			[
+				"prima",
+				"primary_key"
+			],
+			[
+				"to",
+				"to_s"
+			],
+			[
+				"unit_",
+				"unit_id"
+			],
+			[
+				"permiss",
+				"permission_group_id"
+			],
+			[
+				"reme",
+				"remember_token"
+			],
+			[
+				"remov",
+				"remove"
+			],
+			[
+				"add_",
+				"add_index"
+			],
+			[
+				"curre",
+				"current_user"
+			],
+			[
+				"sele",
+				"select_string"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 56,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"renam",
+				"ANF: Rename File"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"s",
+				"SassBeautify"
+			],
+			[
+				"snhtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"",
+				"Build: Build"
+			],
+			[
+				"synphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"setsynhtm",
+				"Set Syntax: HTML"
+			],
+			[
+				"syn javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syn jaav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syn ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"syn html",
+				"Set Syntax: HTML"
+			],
+			[
+				"set bas",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"set ec",
+				"Subclim: Set Eclim executable path"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"eclim",
+				"Subclim: Set Eclim executable path"
+			],
+			[
+				"packins",
+				"Package Control: Install Package"
+			],
+			[
+				"java",
+				"Javatar: Help and Support"
+			],
+			[
+				"dele",
+				"ANF: Delete File"
+			],
+			[
+				"new",
+				"ANF: New File"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"todo",
+				"TodoReview: Project Files"
+			],
+			[
+				"syn htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"syntax ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"lint",
+				"JSHint: Set Linting Preferences"
+			],
+			[
+				"ss scs",
+				"Set Syntax: CSS"
+			],
+			[
+				"intal",
+				"Package Control: Install Package"
+			],
+			[
+				"remo pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"remov ",
+				"Package Control: Remove Package"
+			],
+			[
+				"list pack",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"termina",
+				"Preferences: Terminal Settings – Default"
+			],
+			[
+				"terminal",
+				"Preferences: Terminal Settings – User"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"glue",
+				"Glue - Launch"
+			],
+			[
+				"browse",
+				"Preferences: Browse Packages"
+			],
+			[
+				"browse ",
+				"Preferences: Browse Packages"
+			],
+			[
+				"term",
+				"Preferences: Terminal Settings – User"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"list  pack",
+				"Package Control: List Packages"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"mig",
+				"Migrations list"
+			],
+			[
+				"migr",
+				"Migrations list"
+			],
+			[
+				"migrat",
+				"Migrations list"
+			],
+			[
+				"diagr",
+				"Diagram: Generate Diagrams for Active View"
+			],
+			[
+				"pa insta",
+				"Package Control: Install Package"
+			],
+			[
+				"migra",
+				"Migrations list"
+			],
+			[
+				"repl ra",
+				"SublimeREPL: Rails"
+			],
+			[
+				"list",
+				"Migrations list"
+			],
+			[
+				"syntax ra",
+				"Set Syntax: Ruby on Rails"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Dash",
+				"DashDoc: invoke Dash with selected word"
+			],
+			[
+				"overflow",
+				"Stackoverflow: Search from Input"
+			],
+			[
+				"overfloe",
+				"Stackoverflow: Search from Input"
+			],
+			[
+				"browser",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"pretty",
+				"HTMLPrettify"
+			],
+			[
+				"list packa",
+				"Package Control: List Packages"
+			],
+			[
+				"proje",
+				"Project: Close"
+			],
+			[
+				"syntax css",
+				"Set Syntax: CSS"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"git current file",
+				"Git: Add Current File"
+			],
+			[
+				"git c",
+				"Git: Commit"
+			],
+			[
+				"pret",
+				"HTMLPrettify"
+			],
+			[
+				"git add	",
+				"Git: Add Current File"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"repl she",
+				"SublimeREPL: Shell"
+			],
+			[
+				"syntax rails",
+				"Set Syntax: Ruby on Rails"
+			],
+			[
+				"set html",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 358.0,
+		"history":
+		[
+			"set_eclim_path",
+			"view.settings().get('caret_style')",
+			"view.settings().get('highlight-line')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/svenseemann/sources/bachelor_thesis/example_projects/videoshop"
+	],
+	"file_history":
+	[
+		"/Users/svenseemann/Downloads/data/exercise1.ktr",
+		"/Users/svenseemann/sources/bd_analytics_data_integration/dump_modified.sql",
+		"/Users/svenseemann/sources/SWP/Agabe/SWT14W33.MET",
+		"/Users/svenseemann/sources/error_output.js",
+		"/Users/svenseemann/sources/joined_addresses.js",
+		"/Users/svenseemann/.zshrc",
+		"/Users/svenseemann/pgxc/pgxc_ctl.conf",
+		"/Users/svenseemann/db_dumps/kliniken_de_final.sql",
+		"/var/folders/cl/z5vbvfy1687_w4n18s5sc55h0000gn/T/psql.edit.34467.sql",
+		"/var/folders/cl/z5vbvfy1687_w4n18s5sc55h0000gn/T/psql.edit.24756.sql",
+		"/Users/svenseemann/pgxc/pgxcConf",
+		"/Users/svenseemann/.ssh/config",
+		"/Users/svenseemann/.bashrc",
+		"/Users/svenseemann/.ssh/known_hosts",
+		"/Users/svenseemann/Documents/sts_workspace/swt-festivalmanager/README.md",
+		"/Users/svenseemann/sources/kh_bench_frontend/app/scripts/main.js",
+		"/Users/svenseemann/sources/kh_bench_frontend/.tmp/styles/main.css",
+		"/Users/svenseemann/sources/kh_bench_frontend/app/styles/main.scss",
+		"/Users/svenseemann/sources/kh_bench_frontend/bower_components/jquery/src/var/hasOwn.js",
+		"/Users/svenseemann/sources/kh_bench_frontend/app/images/working_files/house.xcf",
+		"/Users/svenseemann/sources/kh_bench_frontend/app/styles/components/_tag_cloud.scss",
+		"/Users/svenseemann/sources/kh_bench_frontend/bower_components/bootstrap-sass-official/assets/stylesheets/_bootstrap.scss",
+		"/Users/svenseemann/sources/kh_bench_frontend/bower.json",
+		"/Users/svenseemann/sources/kh_bench_frontend/app/styles/sections/_home.scss",
+		"/Users/svenseemann/sources/kh_bench_frontend/app/styles/components/_headline_boxes.scss",
+		"/Users/svenseemann/sources/kh_bench_frontend/dist/kh-start.html",
+		"/Users/svenseemann/sources/kh_bench_frontend/dist/index.html",
+		"/Users/svenseemann/tutorentreffen_2015.txt",
+		"/Users/svenseemann/sources/kh_bench_frontend/app/styles/libraries/_mixins.scss",
+		"/Users/svenseemann/sources/kh_bench_frontend/Gruntfile.js",
+		"/Users/svenseemann/sources/kh_bench_frontend/node_modules/grunt-contrib-jshint/node_modules/jshint/src/vars.js",
+		"/Users/svenseemann/sources/kh_bench_frontend/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/mixins/_nav-vertical-align.scss",
+		"/Users/svenseemann/sources/kh_bench_frontend/bower_components/jquery/src/attributes/val.js",
+		"/Users/svenseemann/sources/kh_bench_frontend/app/styles/libraries/_variables.scss",
+		"/Users/svenseemann/sources/kh_bench_frontend/bower_components/bootstrap-sass-official/assets/stylesheets/_bootstrap-sprockets.scss",
+		"/Users/svenseemann/sources/kh_bench_frontend/bower_components/bootstrap-sass-official/assets/javascripts/bootstrap-sprockets.js",
+		"/Users/svenseemann/sources/kh_bench_frontend/bower_components/bootstrap-sass-official/assets/javascripts/bootstrap.js",
+		"/Users/svenseemann/sources/kh_bench_frontend/node_modules/grunt-svgmin/node_modules/svgo/node_modules/sax/test/buffer-overrun.js",
+		"/Users/svenseemann/sources/kh_bench_frontend/node_modules/grunt-contrib-uglify/node_modules/uglify-js/lib/mozilla-ast.js",
+		"/Users/svenseemann/sources/kh_bench_frontend/node_modules/grunt-autoprefixer/node_modules/autoprefixer-core/node_modules/caniuse-db/features-json/input-number.json",
+		"/Users/svenseemann/sources/kh_bench_frontend/app/index.html",
+		"/Users/svenseemann/sources/khb_frontend/app/index.html",
+		"/Users/svenseemann/sources/kh_bench_frontend/home",
+		"/Users/svenseemann/sources/kh_benchmark_frontend/css/vendor/_bootstrap.scss",
+		"/Users/svenseemann/sources/kh_benchmark_frontend/css/sections/_home.scss",
+		"/Users/svenseemann/sources/kh_benchmark_frontend/index.html",
+		"/Users/svenseemann/Library/Application Support/Sublime Text 3/Packages/User/SassBeautify.sublime-settings",
+		"/Users/svenseemann/sources/kh_benchmark_frontend/css/application.scss",
+		"/Users/svenseemann/sources/kh_benchmark_frontend/css/libaries/_variables.scss",
+		"/Users/svenseemann/Library/Application Support/Sublime Text 3/Packages/SassBeautify/SassBeautify.sublime-settings",
+		"/Users/svenseemann/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/svenseemann/sources/kh_benchmark_frontend/css/vendor/_bootstrap-sprockets.scss",
+		"/Users/svenseemann/sources/kh_benchmark_frontend/css/vendor/_bootstrap-mincer.scss",
+		"/Users/svenseemann/sources/kh_benchmark_frontend/css/vendor/_bootstrap-compass.scss",
+		"/Users/svenseemann/Downloads/sven/Auswahlliste.php",
+		"/Users/svenseemann/sources/bindoc_page/php/captcha_proxy.php",
+		"/Users/svenseemann/sources/bindoc_page/js/main.min.js",
+		"/Users/svenseemann/sources/bindoc_page/css/main.min.css",
+		"/Users/svenseemann/sources/bindoc_page/index.html",
+		"/Users/svenseemann/sources/bindoc_page/css/bootstrap.min.css",
+		"/Users/svenseemann/sources/bindoc_page/js/jquery.min.js",
+		"/Users/svenseemann/sources/bindoc_page/js/bootstrap.min.js",
+		"/Users/svenseemann/sources/bindoc_page/js/jquery.singlePageNav.min.js",
+		"/Users/svenseemann/sources/bindoc_page/css/camera.css",
+		"/Users/svenseemann/sources/bindoc_page/bindocpage.sublime-project",
+		"/Users/svenseemann/sources/ArtistServiceRailsJSONEndpoint/endpointGenreIndex.html",
+		"/Users/svenseemann/sources/ArtistServiceRails/config/environment.rb",
+		"/Users/svenseemann/sources/ArtistServiceRails/app/assets/javascripts/home.coffee",
+		"/Users/svenseemann/sources/ArtistServiceRails/test/controllers/home_controller_test.rb",
+		"/Users/svenseemann/sources/ArtistServiceRails/public/404.html",
+		"/Users/svenseemann/sources/ArtistServiceRails/app/controllers/genre_controller.rb",
+		"/Users/svenseemann/sources/ArtistServiceRails/config/routes.rb",
+		"/Users/svenseemann/sources/ArtistServiceRails/app/controllers/home_controller.rb",
+		"/Users/svenseemann/sources/ArtistServiceRails/app/controllers/artist_controller.rb",
+		"/Users/svenseemann/sources/ArtistServiceRails/app/models/genre.rb",
+		"/Users/svenseemann/sources/ArtistServiceRails/app/models/artist.rb",
+		"/Users/svenseemann/sources/ArtistServiceRails/config/secrets.yml",
+		"/Users/svenseemann/sources/ArtistServiceRails/config/warble.rb",
+		"/Users/svenseemann/sources/ArtistServiceRails/Gemfile",
+		"/Users/svenseemann/sources/ArtistServiceRails/app/views/genre/index.html.erb",
+		"/Users/svenseemann/sources/ArtistServiceRails/app/views/genre/new.html.erb",
+		"/Users/svenseemann/sources/ArtistServiceRails/app/views/artist/index.html.erb",
+		"/Users/svenseemann/sources/ArtistServiceRails/app/assets/stylesheets/artist.scss",
+		"/Users/svenseemann/sources/ArtistServiceRails/app/assets/stylesheets/genre.scss",
+		"/Users/svenseemann/sources/ArtistServiceRails/app/views/artist/new.html.erb",
+		"/Users/svenseemann/sources/ArtistServiceRails/app/views/home/index.html.erb",
+		"/Users/svenseemann/sources/ArtistServiceRails/Gemfile.lock",
+		"/Users/svenseemann/sources/ArtistServiceRails/app/views/layouts/application.html.erb",
+		"/Users/svenseemann/sources/ArtistServiceRails/app/views/home/faq.html.erb",
+		"/Users/svenseemann/sources/ArtistServiceRails/app/assets/javascripts/navbar.js",
+		"/Users/svenseemann/sources/ArtistServiceRails/local_deploy.sh",
+		"/Users/svenseemann/sources/ArtistServiceRails/config/application.rb",
+		"/Users/svenseemann/sources/ArtistServiceRails/readme.txt",
+		"/Users/svenseemann/sources/ArtistServiceRails/app/views/artist/show.html.erb",
+		"/Users/svenseemann/sources/ArtistServiceRails/README.rdoc",
+		"/Users/svenseemann/sources/ArtistServiceRails/app/views/genre/show.html.erb",
+		"/Users/svenseemann/sources/ArtistServiceRails/db/seeds.rb",
+		"/Users/svenseemann/sources/ArtistServiceRails/WEB-INF/web.xml",
+		"/Users/svenseemann/sources/ArtistServiceRails/config/initializers/inflections.rb",
+		"/Users/svenseemann/sources/ArtistServiceRails/config/initializers/wrap_parameters.rb",
+		"/Users/svenseemann/sources/ArtistServiceRails/app/assets/javascripts/genre.js",
+		"/Users/svenseemann/sources/ArtistServiceRails/app/assets/javascripts/artist.js",
+		"/Users/svenseemann/sources/ArtistServiceRails/app/assets/javascripts/application.js",
+		"/Users/svenseemann/sources/ArtistServiceRails/app/helpers/application_helper.rb",
+		"/Users/svenseemann/sources/ArtistServiceRails/test/controllers/artist_controller_test.rb",
+		"/Users/svenseemann/sources/ArtistServiceRails/.gitignore",
+		"/Users/svenseemann/sources/ArtistServiceRails/app/assets/javascripts/genre.coffee",
+		"/Users/svenseemann/sources/ArtistServiceRails/test/fixtures/genres.yml",
+		"/Users/svenseemann/sources/ArtistServiceRails/config.ru",
+		"/Users/svenseemann/sources/ArtistServiceRails/config/initializers/cookies_serializer.rb",
+		"/Users/svenseemann/sources/ArtistServiceRails/config/initializers/session_store.rb",
+		"/Users/svenseemann/sources/ArtistServiceRails/app/assets/stylesheets/application.css.scss",
+		"/Users/svenseemann/sources/ArtistServiceRails/app/controllers/application_controller.rb",
+		"/Users/svenseemann/sources/ArtistServiceRails/lib/tasks/populate.rake",
+		"/Users/svenseemann/sources/ArtistServiceRails/config/database.yml",
+		"/Users/svenseemann/sources/ArtistServiceRails/test/fixtures/artists.yml",
+		"/Users/svenseemann/sources/ArtistServiceRails/app/assets/javascripts/artist.coffee",
+		"/Users/svenseemann/sources/ArtistService/config/warble.rb",
+		"/Users/svenseemann/sources/ArtistService/config.ru",
+		"/Users/svenseemann/sources/ArtistService/app/artist_service_controller.rb",
+		"/Users/svenseemann/sources/ArtistService/app/controllers/init.rb",
+		"/Users/svenseemann/sources/ArtistService/app/views/index.erb",
+		"/Users/svenseemann/sources/ArtistService/ArtistService.war",
+		"/Users/svenseemann/sources/ArtistService/Gemfile",
+		"/Users/svenseemann/sources/ArtistService/app/views/not_found.erb",
+		"/Users/svenseemann/sources/ArtistService/local_deploy.sh",
+		"/Users/svenseemann/sources/ArtistService/app/models/Artist.rb",
+		"/Users/svenseemann/sources/ArtistService/app/models/Genre.rb"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/svenseemann/sources/cambomed-intern"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"clinics_backup_backup",
+			"clinics",
+			"match",
+			",",
+			"/(0.94)\\w+",
+			"0.9489473684210527",
+			"/(0.94)\\w+",
+			"/(0.94)\\w+/ig",
+			"\\0.94*",
+			",",
+			"}]}",
+			"clinic_crawler",
+			"svenseemann",
+			"latin",
+			"UTF8",
+			"$HOME",
+			"/Users/svenseemann/pgxc",
+			"bd_team",
+			"localhost",
+			"control-label col-md-4",
+			"col-md-5",
+			"form-control",
+			"<div class=\"\">",
+			"col-xs-5",
+			" col-sm-2",
+			"sm-10",
+			"sm-3",
+			"0.7",
+			"1",
+			"0.8",
+			"col-sm-4",
+			"gray",
+			"div",
+			"head",
+			"keyvalue-item",
+			"offset-1",
+			"<s",
+			"box-medical",
+			"Profitabilität",
+			"Kapitalumschlag",
+			"EBIT",
+			"hlag Profitabilität",
+			"Return",
+			"Shareholder-Value Free-Cash-FLow Profitabilität Beta-Faktor Wachstum",
+			"12px",
+			"32px",
+			"30deg",
+			"50",
+			"100",
+			"fa-bars",
+			"contain",
+			"<span class=\"glyphicon glyphicon-th-list\"></span>",
+			"555",
+			"span",
+			"col-md-5",
+			"tag-",
+			"<br />",
+			"div",
+			"</span>",
+			"/span",
+			"span",
+			"h2",
+			"80",
+			"camps.php",
+			"==",
+			") == 0",
+			",",
+			"strcmp(",
+			"==",
+			")== 0",
+			") == 0",
+			",",
+			"strcmp(",
+			"==",
+			") == 0",
+			",",
+			"strcmp(",
+			") == 0",
+			"\n   ",
+			") == 0",
+			",",
+			"strcmp(trim",
+			"==",
+			") == 0",
+			",",
+			"strcmp(",
+			"==",
+			"\"",
+			"        !",
+			"dragon",
+			"h1",
+			"35px",
+			" img-responsive",
+			"100",
+			"20px",
+			"import",
+			"0.3",
+			"img",
+			"fff",
+			"height",
+			"references",
+			"refere",
+			"</a>",
+			"logo_text",
+			"event",
+			"templ",
+			"templatemo_about",
+			"templatemo_events",
+			"templatemo_",
+			"64",
+			"imgwa",
+			"references",
+			"templatemo_banner_menu",
+			"templatemo_mobile_menu",
+			"templatemo_banner_menu",
+			"templatemo_mobile_menu",
+			"fff",
+			"000",
+			"templatemo_about",
+			"templatemo_banner_slide",
+			"templatedemo_banner",
+			"templatemo_banner_slide",
+			"h2",
+			"h3",
+			"artist",
+			"a",
+			"setTabUnactive",
+			"setUnactive"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"$('#popup_tree')",
+			"overview",
+			"&sect;"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": ".gitignore",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 56,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 51.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 86.0
+	},
+	"project": "videoshop.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"main",
+				"app/styles/main.scss"
+			],
+			[
+				"home",
+				"app/styles/sections/_home.scss"
+			],
+			[
+				"box",
+				"app/styles/components/_headline_boxes.scss"
+			],
+			[
+				"vari",
+				"app/styles/libraries/_variables.scss"
+			],
+			[
+				"bootss",
+				"bower_components/bootstrap-sass-official/assets/stylesheets/_bootstrap.scss"
+			],
+			[
+				"mainsc",
+				"app/styles/main.scss"
+			],
+			[
+				"inde",
+				"app/index.html"
+			],
+			[
+				"",
+				"css/vendor/_bootstrap.scss"
+			],
+			[
+				"ind",
+				"index.html"
+			],
+			[
+				"mincss",
+				"css/main.min.css"
+			],
+			[
+				"min",
+				"js/main.min.js"
+			],
+			[
+				"css",
+				"css/main.css"
+			],
+			[
+				"endpo",
+				"ArtistServiceRailsJSONEndpoint/endpointGenreIndex.html"
+			],
+			[
+				"index",
+				"app/views/genre/index.html.erb"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"genrecont",
+				"app/controllers/genre_controller.rb"
+			],
+			[
+				"gemfil",
+				"Gemfile"
+			],
+			[
+				"gemfi",
+				"Gemfile.lock"
+			],
+			[
+				"new",
+				"app/views/artist/new.html.erb"
+			],
+			[
+				"layout",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				"read",
+				"readme.txt"
+			],
+			[
+				"show",
+				"app/views/artist/show.html.erb"
+			],
+			[
+				"secre",
+				"config/secrets.yml"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"wa",
+				"config/warble.rb"
+			],
+			[
+				"artisnew",
+				"app/views/artist/new.html.erb"
+			],
+			[
+				"appjs",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"genre",
+				"app/assets/javascripts/genre.coffee"
+			],
+			[
+				"artist",
+				"app/assets/javascripts/artist.coffee"
+			],
+			[
+				"artjs",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"apphtm",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"seed",
+				"db/seeds.rb"
+			],
+			[
+				"artcss",
+				"app/assets/stylesheets/artist.scss"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"appcss",
+				"app/assets/stylesheets/application.css.scss"
+			],
+			[
+				"appsc",
+				"app/assets/stylesheets/application.css"
+			],
+			[
+				"gitig",
+				".gitignore"
+			],
+			[
+				"artis",
+				"app/controllers/artist_controller.rb"
+			],
+			[
+				"warb",
+				"config/warble.rb"
+			],
+			[
+				"data",
+				"config/database.yml"
+			],
+			[
+				"loc",
+				"local_deploy.sh"
+			],
+			[
+				"contr",
+				"app/controllers/genre_controller.rb"
+			],
+			[
+				"art",
+				"app/models/artist.rb"
+			],
+			[
+				"genr",
+				"app/models/genre.rb"
+			],
+			[
+				"conf",
+				"config.ru"
+			],
+			[
+				"ge",
+				"Gemfile"
+			],
+			[
+				"config/",
+				"config/warble.rb"
+			],
+			[
+				".gitig",
+				".gitignore"
+			],
+			[
+				"amount",
+				"app/models/amount_old.rb"
+			],
+			[
+				"amoutn",
+				"app/models/amount.rb"
+			],
+			[
+				"save",
+				"app/views/patient_datas/save_file.json.erb"
+			],
+			[
+				"pdcon",
+				"app/controllers/patient_datas_controller.rb"
+			],
+			[
+				"uploadfile",
+				"app/views/patient_datas/_upload_files.html.erb"
+			],
+			[
+				"pathtm",
+				"app/views/patient_datas/_patient.html.erb"
+			],
+			[
+				"pdjs",
+				"app/assets/javascripts/patient_datas.js"
+			],
+			[
+				"upload",
+				"app/views/patient_datas/_upload_files.html.erb"
+			],
+			[
+				"capi",
+				"Capfile"
+			],
+			[
+				"cap",
+				"Capfile"
+			],
+			[
+				"pdhelpe",
+				"app/helpers/patient_datas_helper.rb"
+			],
+			[
+				"details",
+				"app/views/patient_datas/details.js.erb"
+			],
+			[
+				"editdeta",
+				"app/views/patient_datas/_edit_details.html.erb"
+			],
+			[
+				"overview",
+				"app/views/patient_datas/overview.html.erb"
+			],
+			[
+				"eval",
+				"app/views/patient_datas/_evaluation_table.html.erb"
+			],
+			[
+				"_patients",
+				"app/views/patient_datas/_patients.html.erb"
+			],
+			[
+				"_patient",
+				"app/views/patient_datas/_patient.html.erb"
+			],
+			[
+				"evalu",
+				"app/views/patient_datas/evaluate.js.erb"
+			],
+			[
+				"pdcont",
+				"app/controllers/patient_datas_controller.rb"
+			],
+			[
+				"display",
+				"app/views/patient_datas/_display_patients.html.erb"
+			],
+			[
+				"patientserb",
+				"app/views/patient_datas/_patients.html.erb"
+			],
+			[
+				"patienttab",
+				"app/views/patient_datas/_patient_data_table.html.erb"
+			],
+			[
+				"patients",
+				"app/views/patient_datas/_display_patients.html.erb"
+			],
+			[
+				"filter",
+				"app/views/patient_datas/filter_patients.js.erb"
+			],
+			[
+				"confapp",
+				"config/application.rb"
+			],
+			[
+				"patcont",
+				"app/controllers/patient_datas_controller.rb"
+			],
+			[
+				"icdhelper",
+				"app/helpers/icd_uploader_helper.rb"
+			],
+			[
+				"icd",
+				"app/controllers/icd_uploader_controller.rb"
+			],
+			[
+				"patienrb",
+				"app/models/patient_data.rb"
+			],
+			[
+				"pa",
+				"app/controllers/patient_datas_controller.rb"
+			],
+			[
+				"gemfile",
+				"Gemfile.lock"
+			],
+			[
+				"patientda",
+				"app/models/patient_data.rb"
+			],
+			[
+				"quer",
+				"config/query_reviewer.yml"
+			],
+			[
+				"viewpatientfilt",
+				"app/views/patient_datas/filter_patients.js.erb"
+			],
+			[
+				"pdcss",
+				"app/assets/stylesheets/patient_datas.css.scss"
+			],
+			[
+				"layhome",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"usercss",
+				"app/assets/stylesheets/users.css.scss"
+			],
+			[
+				"usershow",
+				"app/views/users/show.html.erb"
+			],
+			[
+				"uploadfiles",
+				"app/views/data_files/uploadFile.js.erb"
+			],
+			[
+				"dfilscss",
+				"app/assets/stylesheets/data_file.css.scss"
+			],
+			[
+				"datafilesindex",
+				"app/views/data_files/index.html.erb"
+			],
+			[
+				"editde",
+				"app/views/patient_datas/_edit_details.html.erb"
+			],
+			[
+				"pdc",
+				"app/controllers/patient_datas_controller.rb"
+			],
+			[
+				"patientc",
+				"app/controllers/patient_datas_controller.rb"
+			],
+			[
+				"patient_edit",
+				"app/views/patient_datas/_edit_details.html.erb"
+			],
+			[
+				"showdetails",
+				"app/views/patient_datas/_show_details.html.erb"
+			],
+			[
+				"patientht",
+				"app/views/patient_datas/_patient.html.erb"
+			],
+			[
+				"displa",
+				"app/views/patient_datas/_display_patients.html.erb"
+			],
+			[
+				"callresult",
+				"app/views/patient_datas/_callback_resultlist.html.erb"
+			],
+			[
+				"blogentrspe",
+				"spec/models/blog_entry_spec.rb"
+			],
+			[
+				"useredit",
+				"app/views/users/edit.html.erb"
+			],
+			[
+				"patientover",
+				"app/views/patient_datas/overview.html.erb"
+			],
+			[
+				"_patiern",
+				"app/views/patient_datas/_patient.html.erb"
+			],
+			[
+				"_call",
+				"app/views/patient_datas/_callbackoverview.html.erb"
+			],
+			[
+				"blognew",
+				"app/views/blog_entries/new.html.erb"
+			],
+			[
+				"blogentedit",
+				"app/views/blog_entries/edit.html.erb"
+			],
+			[
+				"groupless",
+				"app/views/users/_groupless.html.erb"
+			],
+			[
+				"_group",
+				"app/views/users/_groups.html.erb"
+			],
+			[
+				"sendme",
+				"app/views/messages/_send_message_dialog.html.erb"
+			],
+			[
+				"grouples",
+				"app/views/users/_groupless.html.erb"
+			],
+			[
+				"groupshtm",
+				"app/views/users/_groups.html.erb"
+			],
+			[
+				"userscss",
+				"app/assets/stylesheets/users.css.scss"
+			],
+			[
+				"view/users/i",
+				"app/views/users/index.html.erb"
+			],
+			[
+				"footer",
+				"app/views/layouts/_footer.html.erb"
+			],
+			[
+				"header",
+				"app/views/layouts/_header.html.erb"
+			],
+			[
+				"pdcontroller",
+				"app/controllers/patient_datas_controller.rb"
+			],
+			[
+				"app/views/appl",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"rake",
+				"lib/tasks/create_meal_types.rake"
+			],
+			[
+				"rec",
+				"app/controllers/recipes_controller.rb"
+			],
+			[
+				"recipesc",
+				"app/controllers/api/v1/recipes_controller.rb"
+			],
+			[
+				"datab",
+				"config/database.yml"
+			],
+			[
+				"app",
+				"config/application.rb"
+			],
+			[
+				"ingred",
+				"app/models/ingredient.rb"
+			],
+			[
+				"unit",
+				"app/models/unit.rb"
+			],
+			[
+				"gemf",
+				"dreizehn-wochen-webservice/Gemfile"
+			],
+			[
+				"opboxam",
+				"app/models/op_box_amount.rb"
+			],
+			[
+				"opboxhel",
+				"app/helpers/op_box_helper.rb"
+			],
+			[
+				"opb",
+				"app/models/op_box.rb"
+			],
+			[
+				"op",
+				"app/controllers/op_box_controller.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 368.0,
+		"selected_items":
+		[
+		],
+		"width": 465.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 240.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
