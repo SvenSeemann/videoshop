@@ -72,6 +72,7 @@ public class VideoShopDataInitializer implements DataInitializer {
 
 		videoCatalog.save(new Disc("Herr der Ringe 1", "hdr", Money.of(EUR, 9.99), "Epic", DiscType.DVD));
 		videoCatalog.save(new Disc("Herr der Ringe 2", "hdr", Money.of(EUR, 9.99), "Epic", DiscType.DVD));
+		videoCatalog.save(new Disc("Herr der Ringe 3", "hdr", Money.of(EUR, 9.99), "Epic", DiscType.DVD));
 		videoCatalog.save(new Disc("Last Action Hero", "lac", Money.of(EUR, 9.99), "Äktschn/Comedy", DiscType.DVD));
 		videoCatalog.save(new Disc("Back to the Future", "bttf", Money.of(EUR, 9.99), "Sci-Fi", DiscType.DVD));
 		videoCatalog.save(new Disc("Fido", "fido", Money.of(EUR, 9.99), "Comedy/Drama/Horror", DiscType.DVD));
