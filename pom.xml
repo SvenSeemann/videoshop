@@ -41,7 +41,7 @@
 		<dependency>
 			<groupId>${project.groupId}</groupId>
 			<artifactId>salespoint-framework</artifactId>
-			<version>6.0.0.RELEASE</version>
+			<version>6.1.1.RELEASE</version>
 		</dependency>
 
 		<dependency>
@@ -67,14 +67,25 @@
 					<target>1.8</target>
 				</configuration>
 			</plugin>
-
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
-
 		</plugins>
 	</build>
+	
+	<reporting>
+		<plugins>
+			<plugin>
+				<groupId>org.codehaus.mojo</groupId>
+				<artifactId>findbugs-maven-plugin</artifactId>
+				<version>3.0.0</version>
+				<configuration>
+					<sourceEncoding>1.8</sourceEncoding>
+				</configuration>
+			</plugin>
+		</plugins>
+	</reporting>
 
 	<repositories>
 		<repository>
