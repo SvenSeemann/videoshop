@@ -84,7 +84,7 @@ public class VideoShopDataInitializer implements DataInitializer {
 			return;
 		}
 
-		videoCatalog.save(new Disc("Herr der Ringe 1", "hdr", Money.of(EUR, 9.99), "Epic", DiscType.DVD));
+		videoCatalog.save(new Disc("Herr der Ringe 1", "hdr", Money.of(EUR, 99.99), "Epic", DiscType.DVD));
 		videoCatalog.save(new Disc("Herr der Ringe 2", "hdr", Money.of(EUR, 9.99), "Epic", DiscType.DVD));
 		videoCatalog.save(new Disc("Herr der Ringe 3", "hdr", Money.of(EUR, 9.99), "Epic", DiscType.DVD));
 		videoCatalog.save(new Disc("Last Action Hero", "lac", Money.of(EUR, 9.99), "Äktschn/Comedy", DiscType.DVD));
